@@ -96,7 +96,6 @@
 	};
 	
 	
-	
 	$(function(){
 		contentWayPoint();
 		loaderPage();
